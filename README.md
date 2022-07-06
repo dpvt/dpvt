@@ -9,5 +9,5 @@ https://dpvt.github.io/dpvt/
 - Python
 - AWS
 - Azure
-- System adminis
+- System administration
 - Computers generally
