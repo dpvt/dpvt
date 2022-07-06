@@ -2,10 +2,12 @@
 
 https://dpvt.github.io/dpvt/
 
-- Data pipeline engineering
+- Data pipelines
 - Data transformation
 - Data cleaning
 - SQL
 - Python
-- System administration
+- AWS
+- Azure
+- System adminis
 - Computers generally
